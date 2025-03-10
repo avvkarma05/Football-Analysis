@@ -1,6 +1,10 @@
-Football Analysis/ Tracking players and ball detection in Football:   
+⚽Football Analysis: Player and Ball Tracking
 
-This Project uses YOLO for object detection and ByteTrack for tracking in football videos.
-It detects players, referees, and the ball, assigning unique track IDs.
-Tracked objects are visualized with ellipses for players and referees, and triangles for the ball.
-It also supports saving and loading tracking data for efficient processing.
+Overview
+
+This project utilizes YOLO for object detection and ByteTrack for tracking in football videos. It identifies and tracks players, referees, and the ball, assigning unique track IDs to each detected object. The tracked objects are visualized with:
+
+Ellipses for players and referees
+Triangles for the ball
+
+Additionally, the project supports saving and loading tracking data for efficient processing.
